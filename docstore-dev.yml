@@ -1,2 +1,6 @@
 config:
   project: in server
+db:
+  connectionUrl: docd.mitchell.com
+policy:
+  storagePolicy: storage.json
