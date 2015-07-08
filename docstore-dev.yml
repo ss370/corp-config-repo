@@ -1,5 +1,5 @@
 config:
-  project: in server
+  project: docstore
 db:
   connectionUrl: docd.mitchell.com
 policy:
