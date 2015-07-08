@@ -1,2 +1,4 @@
+config:
+  project: asg-service
 mie:
   format: arc5
